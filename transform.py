@@ -33,7 +33,7 @@ def transform(input_file, output_file):
 
 
 if __name__ == "__main__":
-    input_file = '/home/ahmad/Koofr/Scandiweb Interview/Scarlet Store/Scareletstore-Oct2022-raw.csv'
-    output_file = '/home/ahmad/Koofr/Scandiweb Interview/Scarlet Store/Scareletstore-Oct2022-cleaned.csv'
+    input_file = 'Scareletstore-Oct2022-raw.csv'
+    output_file = 'Scareletstore-Oct2022-cleaned.csv'
 
     transform(input_file, output_file)
